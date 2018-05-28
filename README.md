@@ -1,1 +1,13 @@
-# House-Price-Prediction-Kaggle-
+To Do:<br>
+- When should one-hot encoding be used? For what algorithms? <br> 
+- Should label encoded features be normalized or centered atleast? <br>
+- Should One-Hot encoded features be normalized or centered atleast?
+- What is Evolutionary Hyperparameter Optimization <br>
+- Research on Optimum Value for k_fold cross-validation
+- What is the importance of pipeline in machine learning
+- What is the importance of class and self in machine learning
+- What is the difference between PCA and KernelPCA?
+- How to measure the loss in useful data while doing Dimensionality Reduction
+- Outlier Rectification
+- Mislabled Data Identification
+- Normalization of All continious variables

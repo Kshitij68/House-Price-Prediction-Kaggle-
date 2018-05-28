@@ -11,3 +11,5 @@ To Do:<br>
 - Outlier Rectification
 - Mislabled Data Identification
 - Normalization of All continious variables
+- Go through various kernels on Kaggle
+- Use visualizations to decide between nominal and categorical variable

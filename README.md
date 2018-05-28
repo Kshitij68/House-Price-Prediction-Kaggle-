@@ -1,4 +1,4 @@
-This is a problem set containing 81 coloumns. Our goal is to predict the sale price of each house (Regression)
+This is a problem set containing 81 coloumns. Our goal is to predict the sale price of each house (Regression) <br>
 Major Challenges:
 - Too many cases of missing values <br>
 - Often missing value means something. Go through data description for each thing
